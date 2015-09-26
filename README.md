@@ -3,6 +3,13 @@ HTML presentation templates for Mozilla
 
 This is the repository with HTML format.
 
+Sample multilingual links:
+
+* [en-US](http://mozilla.github.io/html-presentation-templates/template.html?full=&lang=en-US#shout)
+* [zh-CN](http://mozilla.github.io/html-presentation-templates/template.html?full=&lang=zh-CN#shout)
+* [zh-TW](http://mozilla.github.io/html-presentation-templates/template.html?full=&lang=zh-TW#shout)
+* [ja-JP](http://mozilla.github.io/html-presentation-templates/template.html?full=&lang=ja-JP#shout)
+
 Changes in this version:
 
 * Fullscreen button (as requested by Stormy Peters)
