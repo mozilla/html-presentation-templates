@@ -5,7 +5,6 @@ This is the repository with HTML format.
 
 Changes in this version:
 
-* Firefox OS pick and mix overview deck (firefox-os-pick-and-mix.html)
 * Fullscreen button (as requested by Stormy Peters)
 * Overall cleanup of the CSS (different list styles, live CSS code)
 * Pressing "N" in fullscreen mode toggles note display
