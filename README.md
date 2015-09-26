@@ -1,7 +1,7 @@
 HTML presentation templates for Mozilla
 =======================================
 
-This is the repository with HTML format.
+This is the repository with HTML format. View the [sample overview](http://mozilla.github.io/html-presentation-templates/template.html?lang=en-US).
 
 Sample multilingual links:
 
