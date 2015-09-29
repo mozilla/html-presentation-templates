@@ -102,7 +102,8 @@
   }
 
   function isListMode() {
-    return 'full' !== url.search.substr(1, 4);
+    // Should use `URLSearchParams` but modern browser support is poor.
+    return url.search.indexOf('?full') !== -1 || url.search.indexOf('&full') !== -1;
   }
 
   function normalizeSlideNumber(slideNumber) {
